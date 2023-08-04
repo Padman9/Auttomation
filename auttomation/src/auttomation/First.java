@@ -6,6 +6,7 @@ public class First
 	{
 		int A;
 		int b;
+		System.out.println("updated code");
 		}
 
 }
